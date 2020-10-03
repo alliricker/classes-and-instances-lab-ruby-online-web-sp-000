@@ -1,3 +1,3 @@
-class dog
-dog = [fido, snoopy, lassie]
+class Dog
+Dog = [fido, snoopy, lassie]
 end
